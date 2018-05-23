@@ -1,0 +1,4 @@
+sudo pip install pandas
+sudo pip install rdflib
+sudo pip install requests
+sudo pip install sparqlwrapper
